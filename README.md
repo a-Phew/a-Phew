@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hi, welcome to my GitHub. I am a master's student within the University of Arkansas Comp. Sci. program. 
+As you can see my GitHub is a bit lacking. I hope to soon add many more projects to my arsenal. 
