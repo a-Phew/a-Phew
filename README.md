@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-Hi, welcome to my GitHub. I am a master's student within the University of Arkansas Comp. Sci. program. 
+Hi, welcome to my GitHub. I am a master's student within the University of Arkansas Comp. Sci. program. I currently work as a backend software engineering intern for acres.com!
 
