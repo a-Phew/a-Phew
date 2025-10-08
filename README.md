@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-Hi, welcome to my GitHub profile. I currently work as a backend software engineer 1 for acres.com!
+Enjoy your stay!
 
